@@ -12,4 +12,9 @@ philosophical = ['"Thinking is difficult, that\'s why most people judge" - Carl 
                  '"Don\'t be pushed around by the fears in your mind. Be lead by the dreams in your heart" - Roy T. Bennett',
                  ]
 
-genres = ['motivational', 'philosophical']
+love = ['"I would recognise you in total darkness, were you mute and I deaf. I would recognise you in another lifetime entirely, in different bodies, different times. And I would love you in all of this, until the very last star in the sky burnt out into oblivion" - Achilles',
+        '"I\'d recognise him by touch alone, by smell. I\'d know him blind, by the way his breaths came and his feet struck the sand. I\'d know him in death, at the end of the world" - Patroclus',
+        '"Any moment might be our last. Everything is more beautiful because we\'re doomed. You will never be lovelier than you are now. We will never be here again" - Achilles',
+        '"I remember looking up into the night sky and begging the wishing star for someone who would stay with me for love. But the wishing star did not give me anybody. Rather she descended from the heavens herself and turned into you" - Unknown']
+
+genres = ['motivational', 'philosophical', 'love']

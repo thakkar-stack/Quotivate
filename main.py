@@ -9,10 +9,12 @@ def main():
 
 
 def whichGenre():
-    genre = input('Which genre of quote would you like?:')
-    if genre == (quotes.genres[0]):
+    genre = input('Which genre of quote would you like?: Motivational(m), Philosophical(p), Love(l)?:' )
+    if genre == ('m'):
         print(random.choice(quotes.motivational))
-    elif genre == (quotes.genres[1]):
+    elif genre == ('p'):
         print(random.choice(quotes.philosophical))
+    elif genre == ('l'):
+        print(random.choice(quotes.love))
         
 main()
